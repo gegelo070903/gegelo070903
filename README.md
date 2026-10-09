@@ -94,18 +94,6 @@ Fresh graduate (**BS Information Systems** — Bacolod City College) who builds 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gegelo070903&layout=compact&theme=radical&title_color=f97316&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=gegelo070903&theme=radical&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316&border=30363d" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gegelo070903&bg_color=0d1117&color=c9d1d9&line=f97316&point=f97316&area=true&hide_border=true" alt="Activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gegelo070903&theme=radical&no-bg=true&no-frame=false&column=6&title_color=f97316&text_color=c9d1d9" alt="GitHub trophies"/>
-</p>
-
 <details>
 <summary><b>Contribution snake</b> (click to expand)</summary>
 

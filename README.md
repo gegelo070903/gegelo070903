@@ -16,7 +16,7 @@
 
 ## About Me
 
-Fresh graduate (**BS Information Systems, Cum Laude** — Bicol University) who builds practical web systems: a QR-based attendance platform used in a real port office, a construction project management system, and CRM automation funnels. I care about clean design, accurate data, and shipping things that actually get used.
+Fresh graduate (**BS Information Systems** — Bacolod City College) who builds practical web systems: a QR-based attendance platform used in a real port office, a construction project management system, and CRM automation funnels. I care about clean design, accurate data, and shipping things that actually get used.
 
 - Currently building with **Next.js, React, Prisma & PHP**
 - I automate with **GoHighLevel** — pipelines, workflows, booking & email sequences

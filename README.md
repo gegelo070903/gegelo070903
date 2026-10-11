@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-animated.svg" alt="John Angelo Vasquez — Web Developer, Designer, Automation" width="100%"/>
+  <img src="assets/banner-animated.svg" alt="John Angelo Vasquez | Web Developer, Designer, Automation" width="100%"/>
 </div>
 
 <div align="center">
@@ -18,10 +18,10 @@
 
 ## About Me
 
-Fresh graduate (**BS Information Systems** — Bacolod City College) who builds practical web systems: a QR-based attendance platform used in a real port office, a construction project management system, and CRM automation funnels. I care about clean design, accurate data, and shipping things that actually get used.
+Fresh graduate (**BS Information Systems** · Bacolod City College) who builds practical web systems: a QR-based attendance platform used in a real port office, a construction project management system, and CRM automation funnels. I care about clean design, accurate data, and shipping things that actually get used.
 
 - Currently building with **Next.js, React, Prisma & PHP**
-- I automate with **GoHighLevel** — pipelines, workflows, booking & email sequences
+- I automate with **GoHighLevel**: pipelines, workflows, booking & email sequences
 - I design **ad creatives** and produce **AI-generated video ads**
 - Open to remote roles: web development, data entry, CRM automation, design
 - Contact: **vasquezjohnangelod.9@gmail.com**
@@ -31,12 +31,12 @@ Fresh graduate (**BS Information Systems** — Bacolod City College) who builds 
 
 <br/>
 
-- **LET Mastery — GoHighLevel Funnel Builder (June 2026 – Present)** — Built a complete lead intake and booking funnel: landing-page form, 3-stage pipeline, verification branching, booking drip campaigns, and appointment automation.
-- **Church Multimedia Team, Bacolod Grace Gospel Church of Christ — Lead Multimedia Designer, Volunteer (2019 – Present)** — Lead designer for motion graphics and visual content; handles livestream production for services and events; creates designs in Canva and other creative apps.
-- **Philippine Ports Authority (OJT Lead Developer)** — Led the QR Attendance Monitoring System: QR generation/scanning, real-time logs, admin dashboard, deployed and presented to PPA officials.
-- **National Labor Relations Commission (OJT)** — Encoded labor-case data into Excel, maintained digital/physical records with strict accuracy.
-- **Ownly Corp — Junior Data Analyst** — Back-office data encoding, audits, and updates in a remote team.
-- **Velstand Furniture — Graphic Design & Customer Support** — Social media ad creatives and customer inquiry handling.
+- **LET Mastery · GoHighLevel Funnel Builder (June 2026 – Present)**: Built a complete lead intake and booking funnel: landing-page form, 3-stage pipeline, verification branching, booking drip campaigns, and appointment automation.
+- **Church Multimedia Team, Bacolod Grace Gospel Church of Christ · Lead Multimedia Designer, Volunteer (2019 – Present)**: Lead designer for motion graphics and visual content; handles livestream production for services and events; creates designs in Canva and other creative apps.
+- **Philippine Ports Authority (OJT Lead Developer)**: Led the QR Attendance Monitoring System: QR generation/scanning, real-time logs, admin dashboard, deployed and presented to PPA officials.
+- **National Labor Relations Commission (OJT)**: Encoded labor-case data into Excel, maintained digital/physical records with strict accuracy.
+- **Ownly Corp · Junior Data Analyst**: Back-office data encoding, audits, and updates in a remote team.
+- **Velstand Furniture · Graphic Design & Customer Support**: Social media ad creatives and customer inquiry handling.
 
 </details>
 
@@ -48,7 +48,7 @@ Fresh graduate (**BS Information Systems** — Bacolod City College) who builds 
 | Service | Details |
 |---|---|
 | Web Development | Business sites, dashboards, and internal systems (Next.js, React, PHP) |
-| Data Entry & Admin Support | Accurate, fast encoding — Excel, Google Sheets, CRM data cleanup |
+| Data Entry & Admin Support | Accurate, fast encoding: Excel, Google Sheets, CRM data cleanup |
 | GoHighLevel Automation | Pipelines, booking workflows, email sequences, funnel setup |
 | Graphic Design | Social media posts, ad creatives, marketing visuals |
 | AI Video Ads | Short-form product ads and promotional videos |
@@ -85,9 +85,9 @@ Fresh graduate (**BS Information Systems** — Bacolod City College) who builds 
 | Project | Description | Stack |
 |---|---|---|
 | [Construction Project Management System](https://github.com/gegelo070903/capstone4a) | Capstone platform for managing construction projects, tasks, and progress tracking | PHP · MySQL |
-| [QR Attendance Monitoring System](https://github.com/gegelo070903/Attendance-Monitoring-for-PPA) | QR-code attendance system built for the Philippine Ports Authority — scanning, real-time logs, reports | Next.js · React · Prisma |
-| [Portfolio Website](https://github.com/gegelo070903/portfolio) | My personal portfolio — dark, minimal, orange-accented ([live site](https://gegelo070903.github.io/portfolio/)) | HTML · CSS · JS |
-| LET Mastery Funnel | Early-access funnel with a 3-stage GoHighLevel pipeline: intake, booking, appointment — fully automated emails | GoHighLevel |
+| [QR Attendance Monitoring System](https://github.com/gegelo070903/Attendance-Monitoring-for-PPA) | QR-code attendance system built for the Philippine Ports Authority: scanning, real-time logs, reports | Next.js · React · Prisma |
+| [Portfolio Website](https://github.com/gegelo070903/portfolio) | My personal portfolio: dark, minimal, orange-accented ([live site](https://gegelo070903.github.io/portfolio/)) | HTML · CSS · JS |
+| LET Mastery Funnel | Early-access funnel with a 3-stage GoHighLevel pipeline: intake, booking, appointment: fully automated emails | GoHighLevel |
 
 ---
 
@@ -107,7 +107,7 @@ Fresh graduate (**BS Information Systems** — Bacolod City College) who builds 
   <img src="https://raw.githubusercontent.com/gegelo070903/gegelo070903/output/profile-snake-dark.svg" alt="Snake eating my contributions"/>
 </p>
 
-<i>An animated snake that eats my contribution graph — regenerated daily by GitHub Actions.</i>
+<i>An animated snake that eats my contribution graph, regenerated daily by GitHub Actions.</i>
 
 </details>
 

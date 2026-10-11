@@ -31,6 +31,8 @@ Fresh graduate (**BS Information Systems** — Bacolod City College) who builds 
 
 <br/>
 
+- **LET Mastery — GoHighLevel Funnel Builder (June 2026 – Present)** — Built a complete lead intake and booking funnel: landing-page form, 3-stage pipeline, verification branching, booking drip campaigns, and appointment automation.
+- **Church Multimedia Team, Bacolod Grace Gospel Church of Christ — Lead Multimedia Designer, Volunteer (2019 – Present)** — Lead designer for motion graphics and visual content; handles livestream production for services and events; creates designs in Canva and other creative apps.
 - **Philippine Ports Authority (OJT Lead Developer)** — Led the QR Attendance Monitoring System: QR generation/scanning, real-time logs, admin dashboard, deployed and presented to PPA officials.
 - **National Labor Relations Commission (OJT)** — Encoded labor-case data into Excel, maintained digital/physical records with strict accuracy.
 - **Ownly Corp — Junior Data Analyst** — Back-office data encoding, audits, and updates in a remote team.
@@ -69,10 +71,12 @@ Fresh graduate (**BS Information Systems** — Bacolod City College) who builds 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,nextjs,react,laravel,mysql,git,github&theme=dark" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=php,cpp,cs,py,java,js,ts,html,css,nextjs,react,laravel,mysql,git,github&theme=dark" alt="Tech stack icons"/>
 </p>
 
-**Also in my toolbox:** Prisma ORM · Microsoft Excel · GoHighLevel · Canva · WordPress · SQL
+**Languages:** PHP · C++ · C# · Python · Java · JavaScript
+
+**Also in my toolbox:** React · SQL · MySQL · Prisma ORM · Microsoft Excel · GoHighLevel · Canva · WordPress
 
 ---
 
